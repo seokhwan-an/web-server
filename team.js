@@ -22,4 +22,6 @@ const immediate2 = setImmediate(()=>{
 });
 clearImmediate(immediate2);
 console.log('crush');
-console.log('web_server_good');
+
+console.log('충돌내기');
+
