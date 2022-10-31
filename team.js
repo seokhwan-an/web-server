@@ -24,3 +24,4 @@ clearImmediate(immediate2);
 console.log('crush');
 
 console.log('충돌내기');
+console.log('충돌내기2');
